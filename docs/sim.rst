@@ -64,7 +64,7 @@ Examples:
     Grid Saturation Change                 310  32,121,24                       13
     Grid Composition Change               1627  35,212,25                      544 
     
-.. image:: https://github.com/mwburgoyne/reservoirpy/blob/main/docs/img/grid_sat_df.png
+.. image:: https://github.com/mwburgoyne/reservoirpy/blob/master/docs/img/grid_sat_df.png
     :alt: DSorted ataFrame of grid blocks with saturation related convergence issues    
     
     
@@ -129,7 +129,7 @@ Examples:
     >>> plt.title('Constant Terminal Rate Solution')
     >>> plt.show()
 
-.. image:: https://github.com/mwburgoyne/reservoirpy/blob/main/docs/img/influence.png
+.. image:: https://github.com/mwburgoyne/reservoirpy/blob/master/docs/img/influence.png
     :alt: Constant Terminal Rate influence tables
 
 
@@ -354,7 +354,7 @@ Examples:
     >>> plt.grid('both')
     >>> plt.plot()
 
-.. image:: https://github.com/mwburgoyne/reservoirpy/blob/main/docs/img/sgof.png
+.. image:: https://github.com/mwburgoyne/reservoirpy/blob/master/docs/img/sgof.png
     :alt: SGOF Relative Permeability Curves
 
 .. code-block:: python
@@ -369,7 +369,7 @@ Examples:
     >>> plt.grid('both')
     >>> plt.plot()
     
-.. image:: https://github.com/mwburgoyne/reservoirpy/blob/main/docs/img/swof.png
+.. image:: https://github.com/mwburgoyne/reservoirpy/blob/master/docs/img/swof.png
     :alt: SWOF Relative Permeability Curves
     
    

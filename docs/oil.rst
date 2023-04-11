@@ -55,7 +55,7 @@ reservoirpy uses class objects to track calculation options through the function
      - Method for calculating oil formation volume factor. Defaults to 'MCAIN'
        Options are:
         + 'STAN': Standing Correlation
-        + 'MCAIN': McCain approach, calculating from densities – Default
+        + 'MCAIN': McCain approach, calculating from densities ï¿½ Default
 
 Users can specify which calculation method to use either by passing an option string, or a class object to any given function. The implementation of class objects should make it easier to program in an IDE that supports type hinting
 
@@ -703,7 +703,7 @@ Examples:
     >>> results = rtb.make_bot_og(pvto=False, pi=4000, api=38, degf=175, sg_g=0.68, pmax=5500, pb=4500, nrows=10, export=True)
     >>> df, st_deno, st_deng, res_denw, res_cw, visw, pb, rsb, rsb_frac, usat = results['bot'], results['deno'], results['deng'], results['denw'], results['cw'], results['uw'], results['pb'], results['rsb'], results['rsb_scale'], results['usat']
     >>> df
-.. image:: https://github.com/mwburgoyne/reservoirpy/blob/main/docs/img/bot_img.png
+.. image:: https://github.com/mwburgoyne/reservoirpy/blob/master/docs/img/bot_img.png
     :alt: Black Oil Table DataFrame
 
 reservoirpy.sg_evolved_gas

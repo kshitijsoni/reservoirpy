@@ -158,5 +158,5 @@ Example:
 
     >>> rtb.comp_library.df
 
-.. image:: https://github.com/kshitijsoni/reservoirpy/blob/main/docs/img/properties_df.png
+.. image:: https://github.com/kshitijsoni/reservoirpy/blob/master/docs/img/properties_df.png
     :alt: DataFrame of Component Library data

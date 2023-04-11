@@ -159,7 +159,7 @@ A set of Gas-Oil relative permeability curves with the LET method
     >>> plt.grid('both')
     >>> plt.plot()
 
-.. image:: https://github.com/kshitijsoni/reservoirpy/blob/main/docs/img/sgof.png
+.. image:: https://github.com/kshitijsoni/reservoirpy/docs/img/sgof.png
     :alt: SGOF Relative Permeability Curves
 
 Or a set of Water-Oil relative permeability curves with the Corey method
